@@ -1,2 +1,2 @@
 # minigrep
-My grep implementation in rust
+My implementation of grep in rust
